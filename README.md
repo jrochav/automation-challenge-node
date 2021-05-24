@@ -1,1 +1,1 @@
-# backend-challenge-node
+# automation-challenge-node
