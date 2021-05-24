@@ -24,7 +24,7 @@ Efetue um cadastro de usuário.
 ### Você deve
 * Utilizar a seguite linguagem
     * Node.js / java script
-* Utilizar as dependências
+* Utilizar as seguintes dependências
     * selenium-webdriver
     * chromedriver
 
