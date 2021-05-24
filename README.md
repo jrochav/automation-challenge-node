@@ -22,18 +22,18 @@ Efetue um cadastro de usuário.
 ## :clipboard: Requisitos
 
 ### Você deve
-* Utilizar a seguite linguagem:
-  * Node.js / java script
+* Utilizar a seguite linguagem
+    * Node.js / java script
 
 * Utilizar as dependências
-  * selenium-webdriver
-  * chromedriver
+    * selenium-webdriver
+    * chromedriver
 
 ### Requisitos obrigatórios
 * Documentação
-  * Instruções de instalação e inicialização
-  * Descrição sobre as tecnologias utilizadas no projeto
-  * Utilizar comentários no código explicando e justificando decisões tomadas
+    * Instruções de instalação e inicialização
+    * Descrição sobre as tecnologias utilizadas no projeto
+    * Utilizar comentários no código explicando e justificando decisões tomadas
 * Gerar relatório de execução.
 * Arquivo contendo massa de dados
 * Page object e componentização
