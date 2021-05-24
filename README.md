@@ -24,6 +24,11 @@ Efetue um cadastro de usuário.
 ### Você deve
 * Utilizar a seguite linguagem
     * Node.js / java script
+    * Descrição sobre as tecnologias utilizadas no projeto
+
+### Você deve
+* Utilizar a seguite linguagem
+    * Node.js / java script
 
 * Utilizar as dependências
     * selenium-webdriver
